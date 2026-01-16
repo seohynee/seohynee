@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center><h3>✨ TECH STACK ✨</h3></div>
+<div align="center">
+  <img src="https://github.com/seo-469/seo-469/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
 
+
+
+
+<div align=center><h3>✨ TECH STACK ✨</h3></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -40,6 +46,6 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="mailto:2seohxn@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/2seohxn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
